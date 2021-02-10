@@ -119,7 +119,7 @@ CREATE TABLE IF NOT EXISTS `voter` (
 --
 
 INSERT INTO `voter` (`vid`, `fname`, `mname`, `lname`, `email`, `password`, `dob`, `gender`, `address`, `age`, `contact`, `city`, `state`, `pth`, `chek`) VALUES
-(4, 'Snehasish', '', 'Patra', 'patra@iias.com', '123', '1996-02-04', 'Male', 'Paresh Nagar', 20, 987654321, 'Siliguri', 'WB', 'user_files/281433_.facebook_1437374350180.jpg', 0);
+(4, 'Deepak', '', 'basak', 'basak@iias.com', '123', '1996-02-04', 'Male', 'Paresh Nagar', 20, 123456, 'Siliguri', 'WB', 'user_files/281433_.facebook_1437374350180.jpg', 0);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
