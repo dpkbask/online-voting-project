@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`eid`, `name`, `username`, `password`) VALUES
-(1, 'Ram', 'admin', '0000');
+(1, 'deepak', 'admin', '1234');
 
 -- --------------------------------------------------------
 
